@@ -13,7 +13,7 @@ Before running this project locally, make sure you have:
 
 ### 1. Clone this repository
 
-git clone https://github.com/ryezra/moonlay-task.git
+git clone https://github.com/ryezra/moonlay-task.git  
 cd moonlay-task/moonlay-task-backend
 
 ### 2. Create and activate virtual environment
