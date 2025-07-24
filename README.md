@@ -19,7 +19,7 @@ cd moonlay-task/moonlay-task-backend
 ### 2. Create and activate virtual environment
 
 python -m venv venv  
-venv\Scripts\activate # On Windows
+venv\Scripts\activate
 
 ### 3. Install dependencies
 
