@@ -38,17 +38,17 @@ DATABASE_URL = "postgresql://postgres:your_password@localhost/moonlay_task_app"
 uvicorn main:app --reload  
 App will be available at http://127.0.0.1:8000/docs
 
-Frontend Setup (Next.js)
+## Frontend Setup (Next.js)
 
-1. Navigate to frontend folder
+### 1. Navigate to frontend folder
 
 cd ../moonlay-task-frontend
 
-2. Install dependencies
+### 2. Install dependencies
 
 npm install
 
-3. Run the frontend
+### 3. Run the frontend
 
 npm run dev
 
